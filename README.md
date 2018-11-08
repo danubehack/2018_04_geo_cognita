@@ -9,4 +9,5 @@ AI powered system to help landowners utilize their parcels based on Copernicus s
 ## Results
 - Presentation: https://github.com/danubehack/2018_04_terra_cognita/blob/master/Pitch-V1.pptx?raw=true
 - Website: http://terracognita.tk/
+- Video: https://youtu.be/-AS0kbftDOE
 
